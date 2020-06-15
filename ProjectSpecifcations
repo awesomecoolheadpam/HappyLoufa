@@ -1,0 +1,20 @@
+Requirements: 
+  
+  Matching Criteria
+    Questions/Survey
+       Briggs-Meyers
+       Implicit Association Test
+       
+  Matching Algorithm
+  Profile Structure
+  User Categories
+  User to Application Interface (UX)
+  
+  User Data Storage
+  Application Data Storage
+    Durable information (Feedback, Configurations, Components)
+    Dynamic Information (matches, etc.)
+    
+    
+ TODO: Create a Architecture diagram 
+  
